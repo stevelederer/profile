@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Arial', sans-serif;
-  background: linear-gradient(to bottom, #5587AB, #B2D3E8);
+  background: linear-gradient(to bottom, #C3375A, #EB6548);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -41,8 +41,8 @@ h1 {
 }
 
 .resume-btn {
-  background-color: #5587AB;
-  color: white;
+  background-color: #FF9E7B;
+  color: black;
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
@@ -53,7 +53,7 @@ h1 {
 }
 
 .resume-btn:hover {
-  background-color: #3D6A8A;
+  background-color: #FECC6A;
 }
 
 .bio {
